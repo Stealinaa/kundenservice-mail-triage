@@ -144,9 +144,9 @@ ist, und nicht meine heutige Meinung darüber.
 - **Gemessen wurde nur das Sortieren**, nicht die inhaltliche Bearbeitung
   der Anfrage. Die dauert unverändert gleich lang.
 - **Anhänge werden nicht ausgewertet**, nur Betreff und Text.
-- Die Kostenangabe betrifft nur die API. Der kostenlose Make-Tarif deckt
-etwa 330 E-Mails pro Monat ab (drei Operationen je E-Mail); darüber
-hinaus fallen Plattformkosten an.
+- **Die Kostenangabe betrifft nur die API.** Der kostenlose Make-Tarif deckt
+  etwa 330 E-Mails pro Monat ab (drei Operationen je E-Mail); darüber
+  hinaus fallen Plattformkosten an.
 
 ## Nächste Schritte
 
