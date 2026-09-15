@@ -54,8 +54,11 @@ Gemessen gegen 40 Anfragen, die ich vorher selbst von Hand gelabelt habe.
 | Kategorie korrekt | **92,5 %** (37 von 40) |
 | Dringlichkeit korrekt | **95,0 %** (38 von 40) |
 | Manuelle Sortierzeit vorher | 27,6 s je E-Mail |
-| Kosten | ca. [X] USD je 1000 E-Mails |
+| Kosten | ca. 1,10 USD je 1000 E-Mails |
 | Laufzeit | 1 Minute für 40 E-Mails |
+
+Die gesamte Entwicklung — alle Experimente, vier Prompt-Versionen,
+Fehlersuche und fünf Durchläufe — hat 0,31 USD an API-Kosten verursacht.
 
 ### Wie viel Arbeit beim Menschen bleibt
 
@@ -141,6 +144,9 @@ ist, und nicht meine heutige Meinung darüber.
 - **Gemessen wurde nur das Sortieren**, nicht die inhaltliche Bearbeitung
   der Anfrage. Die dauert unverändert gleich lang.
 - **Anhänge werden nicht ausgewertet**, nur Betreff und Text.
+- Die Kostenangabe betrifft nur die API. Der kostenlose Make-Tarif deckt
+etwa 330 E-Mails pro Monat ab (drei Operationen je E-Mail); darüber
+hinaus fallen Plattformkosten an.
 
 ## Nächste Schritte
 
