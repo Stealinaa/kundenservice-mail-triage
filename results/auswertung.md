@@ -155,3 +155,11 @@ deckt damit etwa 330 E-Mails ab.
 - **Die Vergleichszeit von 27,6 Sekunden** stammt aus einer Tabelle, in der
   Betreff und Text sofort sichtbar waren. Im realen Postfach wäre der
   manuelle Aufwand höher — die Zahl ist also konservativ.
+
+##
+
+Die Konfidenzwerte schwanken zwischen Durchläufen: derselbe Prompt auf
+denselben E-Mails ergab bei einer Wiederholung eine andere Verteilung
+(bei Schwelle 0,86 gingen einmal 13, einmal 10 E-Mails an den Menschen).
+Die Trefferquote blieb dabei unverändert. Ein weiterer Grund, den
+Konfidenzwert nicht als verlässliche Größe zu behandeln.
