@@ -48,13 +48,13 @@ die bereinigte Fassung liegt daneben.
 | Schwelle | E-Mails an den Menschen | Fehler, die durchgehen |
 |---|---|---|
 | 0,70 | 1 von 40 | 3 |
-| 0,80 | 3 von 40 | 2 |
-| 0,86 | 13 von 40 | 0 |
-| 0,90 | 18 von 40 | 0 |
-| 0,96 | 35 von 40 | 0 |
+| 0,80 | 3 von 40 | 3 |
+| 0,86 | 10 von 40 | 0 |
+| 0,90 | 10 von 40 | 0 |
+| 0,96 | 37 von 40 | 0 |
 
 Oberhalb von 0,86 wächst nur noch die Arbeit: alle Fehler sind bereits
-gefangen, die Zahl der Prüffälle steigt aber von 13 auf 35.
+gefangen, die Zahl der Prüffälle steigt aber von 10 auf 37.
 
 **Die Wahl der Schwelle ist eine Entscheidung über Fehlerkosten, keine
 technische Einstellung.** Drei falsch abgelegte E-Mails gegen ein Drittel
