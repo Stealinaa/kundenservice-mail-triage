@@ -67,10 +67,10 @@ Das hängt davon ab, ab welcher Konfidenz automatisch abgelegt wird:
 | Schwelle | E-Mails an den Menschen | Fehler, die durchgehen |
 |---|---|---|
 | 0,70 | 1 von 40 | 3 |
-| 0,80 | 3 von 40 | 2 |
-| 0,86 | 13 von 40 | 0 |
-| 0,90 | 18 von 40 | 0 |
-| 0,96 | 35 von 40 | 0 |
+| 0,80 | 3 von 40 | 3 |
+| 0,86 | 10 von 40 | 0 |
+| 0,90 | 10 von 40 | 0 |
+| 0,96 | 37 von 40 | 0 |
 
 Oberhalb von 0,86 gewinnt man nichts mehr: alle Fehler sind gefangen, aber
 die Arbeit für den Menschen wächst weiter.
